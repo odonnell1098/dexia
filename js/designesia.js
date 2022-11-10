@@ -16,7 +16,7 @@
      var mb;
      var instances = [];
      var $window = $(window);
-     var $tmp_h = '90';
+     var $tmp_h = '120';
 	 var $op_header_autoshow = 0;
 	 var grid_size = 10;
      /* predefined vars end */
