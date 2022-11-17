@@ -1146,6 +1146,15 @@ header.header-mobile.has-topbar {
     height: 100px;
 }
 
+@media only screen and (max-width:780px){
+    #content {
+        margin-top:100px !important;
+       
+    }
+}
+
+
+
 header.header-mobile.has-topbar .header-row,
 header.header-mobile.has-topbar .header-col {
     margin-top: 10px;
